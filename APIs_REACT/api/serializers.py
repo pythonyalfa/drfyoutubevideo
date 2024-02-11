@@ -11,3 +11,8 @@ class TodoSerializer(serializers.ModelSerializer):
         fields = ['id','title','memo','created','completed']
 
 
+class TodoToggleCompleteSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Todo
+        fields = ['id'] # Why the need to show id ?
+        read_only_fields = ['title','memo','created','completed']
