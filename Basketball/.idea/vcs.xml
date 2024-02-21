@@ -3,11 +3,16 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/BasketballTournament" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pages to Add/MeetTheTeam" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/basketball" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/basketball/Meet-The-Team-Page" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/basketball/MeetTheTeamPage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmoingsoon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coming-soon-Froga" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/comingsoon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fundraisingpage1/WeCare-PaymentIntegration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/little-league-ui" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/meettheteam/Meet-The-Team-Page" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/teambios/meet-the-team" vcs="Git" />
   </component>
 </project>
